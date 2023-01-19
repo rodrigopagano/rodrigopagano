@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rodrigopagano
 - 👀 estoy interesado en conseguir un lugar como desarrollador web
 - 🌱 estoy aprendiendo javascript
-- he aprendido como usar html,css y bootstrap
+- he aprendido como usar html,css y bootstrap tambien como my sql
 - 📫 rodrigopagano17@gmail.com
 
 <!---
